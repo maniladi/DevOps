@@ -1,0 +1,12 @@
+
+#iclude<stdio.h>
+#include<cionio.h>
+void main()
+{
+int a,b,c;
+a=50;
+b=300;
+c=1000;
+printf("The sum of 3 values are %d",c=a+b+c);
+getch();
+}
